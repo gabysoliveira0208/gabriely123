@@ -4,10 +4,14 @@
 }
 
 body {
-   background: #CCCCCC
 }
 #banner {
    width: 100%;
+}
+
+.principal {
+      background: #CCCCCC
+      podding:30px;
 }
 
 h1 {
