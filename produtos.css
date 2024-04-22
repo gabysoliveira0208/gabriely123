@@ -2,13 +2,13 @@ header {
     background: #BBBBBB;
     padding: 20px 0;
 }
-.caixa{
+.caixa {
     position: relative;
     widht: 940px;
     margin: 0 auto;
 }
 
-nav{
+nav {
     position: absolute;
     top: 110px;
     right: 0;
@@ -50,13 +50,15 @@ nav a:hover {
     border-radius: 10px;
 }
 
-.produtos li:hover{
+.produtos li:hover {
     border-color:green;
 }
-.produtos li:active{
+
+.produtos li:active {
     border-color:red;
 }
-.produtos li:hover h2{
+
+.produtos li:hover h2 {
     font-size: 34px;
 }
 
