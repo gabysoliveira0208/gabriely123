@@ -1,5 +1,5 @@
 * {
-   margim: 0;
+   margin: 0;
    padding: 0;
 }
 
@@ -10,7 +10,7 @@ body {}
 }
 
 .principal {
-   background: #CCCCCC
+   background: #CCCCCC;
    padding:30px;
 }
 
@@ -40,16 +40,17 @@ em strong {
 }
 
 .beneficios {
-   background #FFFFFF;
-   padding: 20px:
+   background: #FFFFFF;
+   padding: 20px;
 }
 
 ul {
    display: inline-block;
    vertical-align: top;
    width: 20%;
-   margin-right: 15%;
+   margin-right: 15%; 
+   }
 
-   ] .imagem-beneficios {
-      width: 50%
+.imagem-beneficios {
+      width: 50%;
    }
