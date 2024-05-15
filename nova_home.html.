@@ -6,6 +6,19 @@
          <title>barbearia alura</title>
          <link rel="stylesheet" href="style.css">
      </head>
+<header>
+			<div class="caixa">
+				<h1><img src="logo.png"></h1>
+
+				<nav>
+					<ul>
+						<li><a href="home.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
             <footer>
 	        <img src="logo-branco.png">
 			<p class="copyright">&copy; Gabriely Araujo de Oliveira-2B 2024</p>
