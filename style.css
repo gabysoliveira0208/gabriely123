@@ -94,8 +94,7 @@ footer {
 }
 
 main {
-    width: 940px;
-    margin: 0 auto;
+    
 }
 
 form {
@@ -191,6 +190,28 @@ body {
 	width: 60%;
 }
 
+. conteudo-beneficios {
+	width: 640px;
+        margin: 0 auto;
+}
+
+.lista-beneficios {
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.itens {
+       line-height:1.5;
+}
+.itens:first-child {
+      font-weight: bold;
+}
+
+.beneficios {
+	padding: 3em 0;
+	background: #888888;
+}
 .mapa {
     padding: 3em 0;
 }
