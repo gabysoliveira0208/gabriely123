@@ -59,11 +59,11 @@ nav a:hover {
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color:whitegreen;
 }
 
 .produtos li:active {
-	border-color: #088C19;	
+	border-color: red;	
 }
 
 .produtos li:hover h2 {
@@ -125,7 +125,7 @@ form label, form legend {
 .enviar {
 	width:40%;
 	padding: 15px 0;
-	background: orange;
+	background: pink;
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -136,7 +136,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	background: darkpink;
 	transform: scale(1.2);
 }
 
