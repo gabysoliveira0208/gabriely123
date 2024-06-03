@@ -208,8 +208,9 @@ td, th {
 }
 
 
-.imagem-beneficios {
-	width: 60%;
+.beneficios {
+	padding: 3em 0;
+	background: #888888;
 }
 
 .conteudo-beneficios {
@@ -231,9 +232,8 @@ td, th {
 	font-weight: bold;
 }
 
-.beneficios {
-	padding: 3em 0;
-	background: #888888;
+.imagem-beneficios {
+	width: 60%;
 }
 
 .video {
